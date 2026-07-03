@@ -1,4 +1,4 @@
-# Hi, I'm Priya Upadhyay
+# Hi, I'm Priya 
 
 ## 🌸 About Me
 
