@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Priya Upadhyay
 
-<!--
-**Priyaupadhyay10/Priyaupadhyay10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌸 About Me
 
-Here are some ideas to get you started:
+✨ I believe every project is an opportunity to learn, improve, and create something meaningful.
+ 💻 Passionate about programming and software development
+ 🚀 Enjoy building projects and bringing ideas to life
+ 📚 Always eager to learn and explore new technologies
+ 🌱 Committed to continuous learning and growth
+ 🤝 Open to collaboration and new opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,c++,c,git,github,vscode" />
+</p>
+
+---
+
+## 📖 Learning Journey
+
+
+- 📊 Data Structures & Algorithms
+- ⚡ Git & GitHub
+- 💻 Object-Oriented Programming (OOP)
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: **priyaupadhyay.tech@gmail.com**
+- 💼 LinkedIn: **[Priya Upadhyay](https://www.linkedin.com/in/priya-upadhyay-ba13233a4/)**
+
+---
